@@ -10,7 +10,7 @@
 <div class="h-screen flex">
     <div class="flex w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 justify-around items-center">
         <div>
-            <h1 class="text-white font-bold text-4xl font-sans">Digital.AI World Demo</h1>
+            <h1 class="text-white font-bold text-4xl font-sans">Aqua World Demo</h1>
             <p class="text-white mt-1">Unlock the potential of AI in your business</p>
             <button type="submit" class="block w-28 bg-white text-indigo-800 mt-4 py-2 rounded-2xl font-bold mb-2">Learn More</button>
         </div>
